@@ -12,15 +12,13 @@ The car's **vehicle identification number (VIN)** is the identifying code for a 
 
 ***Fondren VIN Decoder*** is a GUI application performing the VIN decoding function from different vehicles.
 
-- Download **[Fondren VIN Decoder Installer](https://github.com/YangChuan80/Fondren-VIN-Decoder/blob/master/Fondren%20VIN%20Decoder%20Installer.exe?raw=true)** file from **[here](https://github.com/YangChuan80/Fondren-VIN-Decoder/blob/master/Fondren%20VIN%20Decoder%20Installer.exe?raw=true)**, which is a Python source file only. 
+- Download **[Fondren VIN Decoder Installer](https://github.com/YangChuan80/Fondren-VIN-Decoder/blob/master/Fondren%20VIN%20Decoder%20Installer.exe?raw=true)** file from **[here](https://github.com/YangChuan80/Fondren-VIN-Decoder/blob/master/Fondren%20VIN%20Decoder%20Installer.exe?raw=true)**, which is a windows installation file. 
 
-- After downloading, you can install **Fondren VIN Decoder Installer.exe** directly. When finished, a folder with the same name have been made. Enter the folder Fondren VIN Decoder, run the **Fondren VIN Decoder.EXE** to go!
+- After downloading, you can install **Fondren VIN Decoder** directly. When finished, a folder with the same name have been made. Enter the folder Fondren VIN Decoder, run the **_Fondren VIN Decoder.EXE_** to go!
 
 - This option is for ordinary users, who are not required to possess any knowledge of Python programming language or to have Python interpreter configured on their computers.
 
 - Fondren VIN Decoder can currently be installed on Windows 7 or later platform only.
-- 
-- The GUI of Katy OBD will run.
 
 ## Instructions
 - Enter the VIN string in the text box labeled with "VIN (Vehicle Identification Number):" above. Then press **Decode** button below to decode the VIN string. 
