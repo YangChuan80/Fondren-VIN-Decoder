@@ -14,15 +14,13 @@ The car's **vehicle identification number (VIN)** is the identifying code for a 
 
 - Download **[Fondren VIN Decoder Installer](https://github.com/YangChuan80/Fondren-VIN-Decoder/blob/master/Fondren%20VIN%20Decoder%20Installer.exe?raw=true)** file from **[here](https://github.com/YangChuan80/Fondren-VIN-Decoder/blob/master/Fondren%20VIN%20Decoder%20Installer.exe?raw=true)**, which is a windows installation file. 
 
-- After downloading, you can install **Fondren VIN Decoder** directly. When finished, a folder with the same name have been made. Enter the folder Fondren VIN Decoder, run the **Fondren VIN Decoder.exe** to go!
+- After downloading, you can install **Fondren VIN Decoder** directly. When finished, a folder with the same name has been made. Enter the folder **Fondren VIN Decoder**, run the **Fondren VIN Decoder.exe** to go!
 
-- This option is for ordinary users, who are not required to possess any knowledge of Python programming language or to have Python interpreter configured on their computers.
-
-- ***Fondren VIN Decoder*** can currently be installed on Windows 7 or later platform only.
+- ***Fondren VIN Decoder*** can currently be installed on **Windows 7 64-bit** or **later** platform only.
 
 ## Instructions
 - Enter the VIN string in the text box labeled with "VIN (Vehicle Identification Number):" above. Then press **Decode** button below to decode the VIN string. 
-- Below you will get the parameters of this vehicle, such as **Manufacturer**, **Year**, **Make**, **Region** and **Country**, etc. 
+- Down below you will get the parameters of this vehicle, such as **Manufacturer**, **Year**, **Make**, **Region** and **Country**, etc. 
 
 ## License
 The MIT License (MIT)
