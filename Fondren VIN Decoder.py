@@ -138,7 +138,7 @@ label_region.place(x=60,y=y_position-30)
 
 text_country=tk.Text(root, width=25,height=1, font=('tahoma', 9), bd=2)
 text_country.place(x=340, y=y_position)
-label_country=tk.Label(root, text='Contry:', font=('tahoma', 9))
+label_country=tk.Label(root, text='Country:', font=('tahoma', 9))
 label_country.place(x=340,y=y_position-30)
 
 text_model=tk.Text(root, width=25,height=1, font=('tahoma', 9), bd=2)
